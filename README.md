@@ -1,5 +1,6 @@
 # Clear-Linux-WSL
-Since the repo is out of quota, I'm uploading them to gitlab... wait to download please.
+Since the repo is out of quota, I'm uploading them to gitlab...
+https://gitlab.com/ruben.cano96/clear-linux-wsl
 
 WSL clear linux installation (clean and updated)
 
