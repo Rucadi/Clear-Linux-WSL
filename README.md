@@ -1,4 +1,6 @@
 # Clear-Linux-WSL
+Since the repo is out of quota, I'm uploading them to gitlab... wait to download please.
+
 WSL clear linux installation (clean and updated)
 
 It can be installed using wsl --import. 
